@@ -1,2 +1,2 @@
-# Contador
-Exercício do bootcamp de ReactJS.
+# Bootcamp ReactJS
+Repositório para armazenar os arquivos do bootcamp de ReactJS.
