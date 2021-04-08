@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import NavBar from './components/NavBar';
-import HomePage from './components/HomePage';
 import './assets/css/reset.css';
 import './assets/css/style.css';
+// import Inicial from './pages/Inicial';
+import MinhasMusicas from './pages/MinhasMusicas';
 
 ReactDOM.render(
   <React.StrictMode>
-    <NavBar />
-    <HomePage />
+    {/* <Inicial /> */}
+    <MinhasMusicas />
   </React.StrictMode>,
   document.getElementById('root')
 );

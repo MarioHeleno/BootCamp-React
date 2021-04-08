@@ -1,1 +1,1 @@
-npx create-react-app {music-box} - Cria um projeto React;
+npx create-react-app {nome_do_projeto} - Cria um projeto React;
