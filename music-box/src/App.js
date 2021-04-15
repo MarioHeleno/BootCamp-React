@@ -1,12 +1,8 @@
+import Routes from "./routes";
+
 function App() {
   return (
-
-        <p>
-          Olá mundo! 
-          <br />
-          React tá estralando!
-        </p>
-
+    <Routes />
   );
 }
 

@@ -6,7 +6,7 @@ function NavBar() {
     return (
         <nav>
             <div className="container">
-                <img className="logo" src={logo} alt="Logo" />
+               <a href="/"> <img className="logo" src={logo} alt="Logo" /> </a>
                 <img src={avatar} alt="Avatar" className="avatar" />
             </div>
         </nav>
